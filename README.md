@@ -1,2 +1,2 @@
 # Projetos em Python
-projetos em python para portifólio
+Projetos em Python feitos por mim
