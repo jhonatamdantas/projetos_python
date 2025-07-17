@@ -1,6 +1,9 @@
 # SITE VALIDADOR DE CPF
 # https://www.4devs.com.br/validador_cpf
 
+# VÍDEO EXPLICATIVO SOBRE O CÓDIGO ABAIXO:
+# https://www.youtube.com/watch?v=2UXMe8hARg4&t=39s
+
 import random 
 cpf = []
 
