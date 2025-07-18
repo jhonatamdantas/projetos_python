@@ -10,12 +10,15 @@ def operar_valor (a, b):
         return a + b
     if operador == "-":
         return a - b
+    
+
 lista_valores_total = list(range(-50, 150))
 lista_valores_div = [round(random.uniform(-50.0, 150.0), 2) for _ in range(3)]
 pontos = 0
 
 while True:
     operador = random.choice("+-*/")
+    
     if operador == "/":
         lista_valores = lista_valores_div
     else:
@@ -31,6 +34,7 @@ while True:
 
     opcao = random.sample(lista_valores, 3)
     opcao.append(resposta_correta)
+    
     random.shuffle(opcao)
 
     perguntas = [
@@ -41,8 +45,7 @@ while True:
 
     print(perguntas[0].setdefault("Pergunta"))
 
-    i = 0
-    for i, num in enumerate(perguntas[i]["Opções"]):
+    for i, num in enumerate(perguntas[0]["Opções"]):
         print(f"{i}) {num}")
     print()
     resposta_usuario = input ("Digite sua Resposta (Índice / Valor): ")
