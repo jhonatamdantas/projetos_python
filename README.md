@@ -4,4 +4,4 @@
 <br>
 <a href="gerador_de_cpf.py">Gerador de CPF🎲</a>
 <br>
-<a href="perguntas_ex.py">Gerador de Perguntas Matemáticas🔢</a>
+<a href="src/README.md">Gerador de Perguntas Matemáticas🔢</a>
