@@ -3,8 +3,6 @@
 Este projeto é um pequeno jogo de perguntas matemáticas feito em **Python** que roda diretamente no console.  
 Ele tem como objetivo testar o conhecimento do usuário em operações básicas (`+`, `-`, `*`, `/`), oferecendo opções de múltipla escolha e pontuando conforme o desempenho.
 
-### <a href="perguntas_matemáticas/perguntas_ex.py">Código de Perguntas</a>
-
 ---
 
 ## 🚀 Funcionalidades
