@@ -7,7 +7,7 @@ Ele pode ser usado para **fins educacionais, testes de sistemas** e aprendizado 
 <br>
 <a href="https://www.4devs.com.br/validador_cpf" target="_blank" rel="external">Validador de CPF - 4Devs</a>
 <br>
-<a href="https://www.youtube.com/watch?v=2UXMe8hARg4&t=39s">Vídeo explicativo do código no YouTube</a>
+<a href="https://www.youtube.com/watch?v=2UXMe8hARg4&t=39s" target="_blank" rel="external">Vídeo explicativo do código no YouTube</a>
 
 ---
 
