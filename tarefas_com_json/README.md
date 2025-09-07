@@ -30,10 +30,6 @@ As tarefas são salvas automaticamente no arquivo arquivo.json após cada ação
 
 
 ```python
-<details>
-<summary><strong>
-
-```python
 import json
 from time import sleep
 from copy import deepcopy
