@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nome": "Jhon",
+      "idade": 19,
+      "agencia": "3922",
+      "conta": "646867-2",
+      "saldo": 2000.0,
+      "tipo_conta": "ContaCorrente"
+    }
+  ]
+}
